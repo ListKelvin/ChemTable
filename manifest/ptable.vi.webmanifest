@@ -3,7 +3,6 @@
   "name": "Bảng Tuần Hoàn - Ptable",
   "description": "Interactive periodic table showing names, electrons, and oxidation states. Visualize trends, 3D orbitals, isotopes, and mix compounds. Fully descriptive writeups.",
   "iarc_rating_id": "d711e76a-61b5-4caa-8a6d-5ba940bfc508",
-
   "categories": ["education", "utilities"],
   "lang": "vi",
   "icons": [
@@ -20,6 +19,7 @@
       "purpose": "any maskable"
     }
   ],
+
   "start_url": "/?lang=vi",
   "scope": "/",
   "display": "standalone",
